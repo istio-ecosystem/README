@@ -13,5 +13,5 @@ To request a new repo to be created, please create an [issue](https://github.com
 - Description of the repo
 - How is the repo related to the Istio project?
 - What are the GitHub ids of the initial admins of the repo?
-- 
+
 The request will be reviewed by Istio Steering in an upcoming meeting for approval.
